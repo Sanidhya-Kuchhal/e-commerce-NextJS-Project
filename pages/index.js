@@ -14,11 +14,11 @@ export default function Home() {
       </Head>
 
    
-    <Navbar></Navbar>
+    
     <div>
       <img src = "/shop for fashion.jpg" alt = ""></img>
     </div>
-    <Footer></Footer>
+   
     
     </div>
   )
